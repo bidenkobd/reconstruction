@@ -1,0 +1,1 @@
+This folder contains the training, validation, and test datasets generated with the field_generation_used_in_paper.py script. The file naming convention is as follows: "{field_name}_{random_seed}_Tvm_{ION_Tvir_MIN parameter of 21cmFAST simulations}_ax_{X_RAY_SPEC_INDEX}_xh_{HII_EFF_FACTOR}.npy"

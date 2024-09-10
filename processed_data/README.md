@@ -1,0 +1,3 @@
+This folder contains the training, validation, and test datasets preprocessed for convenient use in neural network training and performance analysis. 
+
+The `_training.npy` and `_validation.npy` files contain numpy arrays with datasets that have been mean-centered and renormalized with corresponding values of the training set.The `_test.npy` file combines the test dataset into one array. The array structure is (field realization index, x, y, z coordinate,additional axis).
