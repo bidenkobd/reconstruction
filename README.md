@@ -1,4 +1,4 @@
-**Public release of software accompanying the paper published at https://arxiv.org/abs/TBD**
+**Public release of software accompanying the paper published at https://arxiv.org/abs/2409.06769**
 
 It is organized as follows:
 
